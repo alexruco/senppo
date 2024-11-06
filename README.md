@@ -1,34 +1,33 @@
-# My Python Module 🚀
+# senppo 🚀
 
-Welcome to **My Python Module**! This project is designed to [brief description of what your module does].
+Welcome to **senppo**! This project is designed to allow unique email messages to your audience from template or prompt.
 
 ## Features ✨
 
-- **Feature 1**: Explain the first feature. 🎉
-- **Feature 2**: Explain the second feature. 🔥
-- **Feature 3**: Explain the third feature. 🌟
+- **Feature 1**: coming soon. 🎉
+- **Feature 2**: coming soon. 🔥
+- **Feature 3**: coming soon. 🌟
 
 ## Installation 💻
 
 You can install the package via pip:
 
 ```bash
-pip install my_python_module
+pip install git+https://github.com/alexruco/senppo.git@main#senppo
 Usage 📚
 
 Here's a quick example to get you started:
 <!--
 ```python
-from my_python_module import module
+from senppo import senppo
 
 # Example usage
 result = module.some_function(5, 10)
 print(result)
 ```
 -->
-Documentation 📖
 
-Documentation is available at [link to documentation].
+
 Running Tests 🧪
 
 To run the tests, you can use the unittest module or pytest.
@@ -43,7 +42,7 @@ pytest
 
 We welcome contributions from the community! Here’s how you can get involved:
 
-1. **Report Bugs**: If you find a bug, please open an issue [here](https://github.com/yourusername/my_python_module/issues).
+1. **Report Bugs**: If you find a bug, please open an issue [here](https://github.com/alexruco/senppo/issues).
 2. **Suggest Features**: We’d love to hear your ideas! Suggest new features by opening an issue.
 3. **Submit Pull Requests**: Ready to contribute? Fork the repo, make your changes, and submit a pull request. Please ensure your code follows our coding standards and is well-documented.
 4. **Improve Documentation**: Help us improve our documentation. Feel free to make edits or add new content.
